@@ -19,4 +19,4 @@
 
 ###    Instruções para executar o notebook.
 >> O Notebook pode ser baixado em formato ".ipynb" e executado localmente atraves de uma IDE, como VS Code, ou através dos link
->> para o Google Colab aqui -> ![https://colab.research.google.com/github/ton-oliveira/challenge1-data-science/blob/main/AluraStoreBr.ipynb](https://colab.research.google.com/assets/colab-badge.svg).
+>> para o Google Colab ![https://colab.research.google.com/github/ton-oliveira/challenge1-data-science/blob/main/AluraStoreBr.ipynb](https://colab.research.google.com/assets/colab-badge.svg) **no arquivo AluraStoreBr.ipynb.**
